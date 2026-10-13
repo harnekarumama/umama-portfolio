@@ -5,7 +5,7 @@ export function Beyond() {
   return (
     <section id="beyond" className="section beyond-section" aria-labelledby="beyond-title">
       <div className="container">
-        <p className="eyebrow section-label"><span>04 / BEYOND THE SCREEN</span><span>THE PERSON BEHIND THE WORK</span></p>
+        <p className="eyebrow section-label"><span>08 / BEYOND THE SCREEN</span><span>THE PERSON BEHIND THE WORK</span></p>
         <div className="beyond-grid">
           <div>
             <h2 id="beyond-title">A curious mind.<br /><em>A full life.</em></h2>

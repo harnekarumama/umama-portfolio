@@ -2,7 +2,7 @@ export function Ventures() {
   return (
     <section id="ventures" className="section ventures-section" aria-labelledby="ventures-title">
       <div className="container">
-        <p className="eyebrow section-label"><span>03 / MY VENTURES</span><span>AN ENTREPRENEURIAL SPIRIT</span></p>
+        <p className="eyebrow section-label"><span>06 / MY VENTURES</span><span>AN ENTREPRENEURIAL SPIRIT</span></p>
         <div className="section-heading">
           <h2 id="ventures-title">Not just building products.<br /><em>Building possibilities.</em></h2>
           <p>Technology is one part of what I build. Entrepreneurship is another. Small beginnings, with bigger things in mind.</p>

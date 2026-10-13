@@ -1,21 +1,30 @@
-import { useState } from 'react'
+import { useRef, useState } from 'react'
 
 const navigation = [
   ['About', '#about'],
+  ['Experience', '#experience'],
   ['Work', '#work'],
+  ['In the field', '#moments'],
   ['Ventures', '#ventures'],
-  ['Beyond code', '#beyond'],
+  ['Credentials', '#credentials'],
 ]
 
 export function Header() {
   const [menuOpen, setMenuOpen] = useState(false)
+  const menuButton = useRef<HTMLButtonElement>(null)
 
   return (
-    <header className="site-header">
+    <header className="site-header" onKeyDown={event => {
+      if (event.key === 'Escape' && menuOpen) {
+        setMenuOpen(false)
+        menuButton.current?.focus()
+      }
+    }}>
       <div className="container header-inner">
         <a href="#home" className="wordmark" aria-label="Umama home">umama<span>.</span></a>
         <button
           className="menu-toggle"
+          ref={menuButton}
           aria-expanded={menuOpen}
           aria-controls="main-navigation"
           onClick={() => setMenuOpen(!menuOpen)}
