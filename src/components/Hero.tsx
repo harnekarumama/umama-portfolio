@@ -8,13 +8,12 @@ export function Hero() {
         <p className="eyebrow">DEVELOPER / DESIGNER / BUILDER</p>
         <p className="hero-greeting">Hello, I'm Umama Abdul-Hamid Ahmed.</p>
         <h1 id="hero-title">
-          Thoughtful
+          Planning
           <br />
-          <em>design.</em>
+          <em>Designing</em>
           <br />
-          Powerful{" "}
           <span className="code-word">
-            code<span aria-hidden="true">.</span>
+            Shipping<span aria-hidden="true">.</span>
           </span>
         </h1>
         <p className="hero-intro">

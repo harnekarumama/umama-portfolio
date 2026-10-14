@@ -19,7 +19,7 @@ export function About() {
             <h2 id="about-title">
               More than a title.
               <br />
-              <em>A builder at heart.</em>
+              <em>A builder by consistency.</em>
             </h2>
             <figure className="about-photo">
               <img
