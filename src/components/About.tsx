@@ -1,5 +1,5 @@
 import community from "../assets/community.webp";
-import cv from "../../Umama_Abdul-Hamid_Ahmed_CV.md?url";
+import cv from "../public/me-img/Umama_Abdul-Hamid_Ahmed_CV_Updated.pdf?url";
 import { profile } from "../data/cv";
 
 export function About() {
@@ -70,11 +70,11 @@ export function About() {
             </div>
             <a
               href={cv}
-              download="Umama_Abdul-Hamid_Ahmed_CV.md"
+              download="Umama_Abdul-Hamid_Ahmed_CV.pdf"
               className="text-link"
             >
               Download my CV <span aria-hidden="true">↓</span>
-              <small>MARKDOWN</small>
+              <small>PDF</small>
             </a>
           </div>
         </div>
