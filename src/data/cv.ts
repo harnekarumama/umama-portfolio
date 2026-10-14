@@ -4,39 +4,39 @@ export const profile =
 export const skills = [
   {
     name: "Frontend Development",
-    code: "</>",
+    code: "01",
     text: "React, Svelte, TypeScript, JavaScript, Tailwind CSS, responsive design, component-based UI",
   },
   {
     name: "Design & Product",
-    code: "01",
+    code: "02",
     text: "Figma, UI/UX design, wireframes, user flows, product demos, stakeholder communication",
   },
   {
     name: "Project Management",
-    code: "02",
+    code: "03",
     text: "End-to-end coordination across web, mobile and dashboard platforms; task and timeline management; cross-functional team leadership; Scrum-based delivery",
   },
   {
     name: "Deployment & Collaboration",
-    code: "git",
+    code: "04",
     text: "cPanel, GitHub, Git, VS Code, documentation, issue tracking, basic hosting support",
   },
   {
     name: "Professional Skills",
-    code: "03",
+    code: "05",
     text: "Problem solving, critical thinking, project presentation, client and team communication, adaptability",
   },
   {
     name: "Learning & Adaptability",
-    code: "++",
+    code: "06",
     text: "MVC architecture, CMS-driven websites, mobile app fundamentals, documentation-based learning",
   },
 ];
 
 export const highlights = [
   "Managed the full Edugamez product across web, mobile and dashboard, from planning to delivery.",
-  "Delivered public websites for national organizations, including STCDA, ZNCC and the Office of the Chief Mufti of Zanzibar.",
+  "Delivered public websites for national organizations, including STCDA, ZNCC, the Office of the Chief Mufti of Zanzibar and Mount Usambara Pre & Primary School.",
   "Built Edugamez Kids, an early-learning game platform available in three languages: English, Kiswahili and Arabic.",
   "Coordinated Notteco Renewal, a Japan-based ride-booking project, giving international project exposure.",
   "Led school visits, teacher training and user feedback collection for educational technology products.",
@@ -73,7 +73,7 @@ export const experience = {
     },
   ],
   contributions:
-    "Edugamez, Edugamez Kids, Notteco Renewal, ZNCC, ZNCPD, STCDA and Ofisi ya Mufti Mkuu Zanzibar.",
+    "Edugamez, Edugamez Kids, Notteco Renewal, ZNCC, ZNCPD, STCDA, Ofisi ya Mufti Mkuu Zanzibar and Mount Usambara Pre & Primary School.",
 };
 
 export const projects = [
@@ -157,12 +157,24 @@ export const projects = [
     name: "Notteco Renewal",
     category: "JAPAN / RIDE-BOOKING PRODUCT",
     role: "Project Coordinator",
-    url: null,
+    url: "https://notteco.jp/",
     style: "notteco",
     tagline: "Connecting people and journeys.",
     points: [
       "Coordinated a Japan-based ride-booking and driver-matching project.",
       "Supported testing activities and requirement tracking for an international digital product.",
+    ],
+  },
+  {
+    name: "Mount Usambara English Medium Pre & Primary School Website",
+    category: "EDUCATION / SCHOOL WEBSITE",
+    role: "Project Coordinator, Developer, UI/UX Designer",
+    url: "https://mountschool.edugamez.org/",
+    style: "usambara",
+    tagline: "Growing and learning together.",
+    points: [
+      "Coordinated, designed and developed the public website for Mount Usambara English Medium Pre & Primary School in Lushoto, Tanzania.",
+      "Presented school information clearly for parents, pupils and the community, with a responsive, mobile-friendly layout.",
     ],
   },
 ];

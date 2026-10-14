@@ -163,6 +163,7 @@ h1 em { color: var(--gold); font-family: var(--serif); font-weight: 400; }
 .zncc .project-banner { background: #42608e; color: #fbf7ef; }
 .mufti .project-banner { background: #bbbfd0; color: #273040; }
 .notteco .project-banner { background: #b86446; color: #fff6e7; }
+.usambara .project-banner { background: #7f9f7a; color: #1d2b1f; }
 .project-details { padding: 28px; display: flex; flex-direction: column; flex: 1; }
 .project-details h3 { font-family: var(--display); font-size: 24px; font-weight: 600; line-height: 1.35; letter-spacing: -.5px; }
 .project-role { color: var(--gold); font-family: var(--mono); font-size: 10px; line-height: 1.8; margin-top: 10px; }
