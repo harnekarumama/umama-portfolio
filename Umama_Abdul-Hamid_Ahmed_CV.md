@@ -8,7 +8,7 @@ GitHub: github.com/harnekarumama • LinkedIn: Umama Harnekar
 
 ## PROFESSIONAL PROFILE
 
-Frontend Developer and Project Manager with four years of practical experience leading and building responsive web applications, educational technology platforms, dashboards, organizational websites and user-focused digital products. Final-year BSc Computer Science student at the State University of Zanzibar; the final-year capstone project has been completed and results are pending. Experienced in coordinating the full project lifecycle across web, mobile and dashboard products, from planning and design through development, testing and delivery. Strong in React, Svelte, TypeScript, Tailwind CSS, Figma, Git, GitHub, Scrum and cPanel, with solid skills in documentation, team coordination, problem solving and presenting projects to clients and end users. Quick to learn new technologies through documentation, practice and real project requirements.
+Frontend Developer and Project Manager with four years of practical experience leading and building responsive web applications, educational technology platforms, dashboards, organizational websites and user-focused digital products. BSc Computer Science graduate of the State University of Zanzibar, having successfully completed the degree including the final-year capstone project. Experienced in coordinating the full project lifecycle across web, mobile and dashboard products, from planning and design through development, testing and delivery. Strong in React, Svelte, TypeScript, Tailwind CSS, Figma, Git, GitHub, Scrum and cPanel, with solid skills in documentation, team coordination, problem solving and presenting projects to clients and end users. Quick to learn new technologies through documentation, practice and real project requirements.
 
 ## KEY SKILLS
 
@@ -154,9 +154,9 @@ Project Coordinator
 
 State University of Zanzibar (SUZA)
 
-- Final-year capstone project (HarusiHub) completed; results pending.
+- Successfully completed, including the final-year capstone project (HarusiHub).
 
-2023 – Present | Expected graduation: 2026
+2023 – 2026
 
 ## Diploma in Computer Science
 

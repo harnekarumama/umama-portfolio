@@ -202,6 +202,9 @@ h1 em { color: var(--gold); font-family: var(--serif); font-weight: 400; }
 .giftora > p { color: #624b46; border-color: #713b3a35; }
 .venture-status { display: flex; align-items: center; gap: 9px; color: var(--accent); font-size: 10px; margin-top: 20px; }
 .venture-status > span { width: 5px; height: 5px; background: currentColor; border-radius: 50%; }
+.venture-logo { display: block; width: 96px; height: 96px; object-fit: cover; border-radius: 50%; margin: 0 auto 14px; border: 1px solid currentColor; }
+.venture-instagram { display: inline-flex; gap: 8px; align-items: center; min-height: 44px; margin-top: 12px; color: var(--accent); font-family: var(--mono); font-size: 11px; text-decoration: underline; text-underline-offset: 3px; }
+.venture-instagram:hover { opacity: .75; }
 .section-footnote { color: var(--muted); font-family: var(--serif); font-style: italic; font-size: 17px; text-align: center; margin-top: 32px; }
 
 .credentials-section { background: #fbf7ef; }
