@@ -282,7 +282,6 @@ h1 em { color: var(--gold); font-family: var(--serif); font-weight: 400; }
 .footer-contacts > * > span:first-child { display: block; color: var(--gold); font-family: var(--mono); font-size: 13px; margin-bottom: 8px; }
 .footer-contacts a:hover { color: var(--gold); }
 .footer-contacts a > span:last-child { color: var(--gold); }
-.footer-contacts small { font-size: 14px; color: var(--muted); }
 .footer-bottom { margin-top: 32px; border-top: 1px solid var(--line); padding-top: 22px; }
 .footer-bottom > span { font-size: 14px; color: var(--muted); }
 .site-footer .wordmark { font-size: 26px; }
